@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Bushra! 👋
 
-<!--
-**Bushrasidd/Bushrasidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Full Stack Developer | Aspiring Software Engineer
+I am a motivated BCA graduate focused on building scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. 
 
-Here are some ideas to get you started:
+**I am currently looking for Entry-level roles or Internships!** 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Skills
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Backend:** Python, Django, Django REST Framework (DRF), FastAPI
+- **Database:** MySQL, SQL
+- **Tools:** Git, GitHub, Docker, AWS (IAM, EC2, S3)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📱 SC App** | A specialized application focused on [Add brief 1-sentence purpose here]. | Python, React |
+| **🤖 Chatbot AI** | Intelligent assistant utilizing local LLMs via Ollama API. | FastAPI, HTML/CSS, JS, Ollama |
+| **🍱 Meal Booking App** | Full-stack mobile application for managing meal reservations. | Flutter, FastAPI, PostgreSQL |
+---
+I’m actively looking for an Entry-level Full Stack Developer role or Internship. I am eager to contribute to a team where I can apply my Linux, Python, React, and mobile development skills to solve real-world problems.
+---
+
+- **LinkedIn:** [in/bushra-siddiqui-61a90431b](https://linkedin.com/in/bushra-siddiqui-61a90431b)
+- **Portfolio:** [itsbushra.com](https://itsbushra.com/)
+- **Email:** aayatkhabam391@gmail.com
+
