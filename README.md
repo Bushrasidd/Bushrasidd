@@ -4,7 +4,6 @@
 I am a motivated BCA graduate focused on building scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. 
 
 **I am currently looking for Entry-level roles or Internships!** 💼
-
 ---
 
 ### Tech Stack & Skills
@@ -12,21 +11,20 @@ I am a motivated BCA graduate focused on building scalable web applications. I l
 - **Backend:** Python, Django, Django REST Framework (DRF), FastAPI
 - **Database:** MySQL, SQL
 - **Tools:** Git, GitHub, Docker, AWS (IAM, EC2, S3)
-
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **📱 SC App** | A specialized application focused on [Add brief 1-sentence purpose here]. | Python, React |
 | **🤖 Chatbot AI** | Intelligent assistant utilizing local LLMs via Ollama API. | FastAPI, HTML/CSS, JS, Ollama |
 | **🍱 Meal Booking App** | Full-stack mobile application for managing meal reservations. | Flutter, FastAPI, PostgreSQL |
----
-I’m actively looking for an Entry-level Full Stack Developer role or Internship. I am eager to contribute to a team where I can apply my Linux, Python, React, and mobile development skills to solve real-world problems.
+
 ---
 
 - **LinkedIn:** [in/bushra-siddiqui-61a90431b](https://linkedin.com/in/bushra-siddiqui-61a90431b)
 - **Portfolio:** [itsbushra.com](https://itsbushra.com/)
 - **Email:** aayatkhabam391@gmail.com
+
+---
 
