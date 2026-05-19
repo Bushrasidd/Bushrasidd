@@ -1,6 +1,6 @@
 # Hi there, I'm Bushra! 👋
 
-###  Full Stack Developer | Aspiring Software Engineer
+###  Full Stack Developer 
 I am a motivated BCA graduate focused on building scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. 
 
 ### Projects Currently working on:
