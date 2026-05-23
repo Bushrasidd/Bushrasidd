@@ -1,7 +1,8 @@
 # Hi there, I'm Bushra! 👋
 
 ###  Full Stack Developer 
-I am a motivated BCA graduate focused on building scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. 
+
+Full Stack Developer with expertise in Python, Django, DRF, FastAPI, React.js, Next.js, MySQL, and Docker, experienced in developing scalable web applications with efficient backend architectures and modern frontend interfaces.
 
 ### Projects Currently working on:
 https://toppers-multitude-c8j1.vercel.app/
