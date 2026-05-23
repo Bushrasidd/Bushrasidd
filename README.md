@@ -7,9 +7,6 @@ Full Stack Developer with expertise in Python, Django, DRF, FastAPI, React.js, N
 ### Projects Currently working on:
 https://toppers-multitude-c8j1.vercel.app/
 
-**I am currently looking for Entry-level roles or Internships!** 💼
----
-
 ### Tech Stack & Skills
 - **Frontend:** HTML5, CSS3, JavaScript, React.js
 - **Backend:** Python, Django, Django REST Framework (DRF), FastAPI
