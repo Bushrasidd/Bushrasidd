@@ -22,7 +22,7 @@ Full Stack Developer with expertise in Python, Django, DRF, FastAPI, React.js, N
 
 - **LinkedIn:** [in/bushra-siddiqui-61a90431b](https://linkedin.com/in/bushra-siddiqui-61a90431b)
 - **Portfolio:** [itsbushra.com](https://itsbushra.com/)
-- **Email:** aayatkhabam391@gmail.com
+- **Email:** sbushrahhh@gmail.com
 
 ---
 
