@@ -4,9 +4,6 @@
 
 Full Stack Developer with expertise in Python, Django, DRF, FastAPI, React.js, Next.js, MySQL, and Docker, experienced in developing scalable web applications with efficient backend architectures and modern frontend interfaces.
 
-### Projects Currently working on:
-https://toppers-multitude-c8j1.vercel.app/
-
 ### Tech Stack & Skills
 - **Frontend:** HTML5, CSS3, JavaScript, React.js
 - **Backend:** Python, Django, Django REST Framework (DRF), FastAPI
