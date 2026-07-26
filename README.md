@@ -20,24 +20,55 @@ Full Stack Developer specializing in **Python, FastAPI, Django REST Framework, R
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🤖 Catalyst AI
-AI-powered calling platform with campaign management, AI agents, webhook processing, and telephony integration.
 
-**Tech:** Next.js • FastAPI • PostgreSQL • SQLAlchemy • Docker
+An AI-powered multi-tenant calling platform that automates outbound campaigns with intelligent voice agents. Contributed to backend development by building modules for lead management, campaign workflows, webhook processing, and telephony integration while ensuring scalable and reliable API performance.
 
----
+**Tech Stack:**  
+`Next.js` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `LLM`
+
+</td>
+
+<td width="50%">
 
 ### 🗄️ DB Manager
-Multi-database management platform supporting PostgreSQL, MySQL & SQLite with background backups and secure connection management.
 
-**Tech:** React • Django DRF • PostgreSQL • Redis • Celery
+A full-stack database management platform that enables users to securely manage multiple PostgreSQL, MySQL, and SQLite servers from a single dashboard. Built features for connection management, SQL query execution, server monitoring, and automated backups using background task processing.
 
----
+**Tech Stack:**  
+`React.js` `Django REST Framework` `PostgreSQL` `Redis` `Celery`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🏢 StratoOne ERP
-Finance module, quotation-to-invoice workflow, customer management, and backend API integration.
 
-**Tech:** Next.js • Express.js • PostgreSQL
+An enterprise resource planning system where I contributed to the Finance module by developing customer management features, quotation-to-invoice workflows, and backend APIs for efficient financial operations.
+
+**Tech Stack:**  
+`Next.js` `Express.js` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### 🤖 Chatbot AI
+
+An AI chatbot powered by locally hosted language models through Ollama. Developed REST APIs with FastAPI and built a responsive web interface for real-time, privacy-focused AI conversations.
+
+**Tech Stack:**  
+`FastAPI` `Ollama` `JavaScript` `HTML` `CSS`
+
+</td>
+</tr>
+</table>
 
 ---
 
